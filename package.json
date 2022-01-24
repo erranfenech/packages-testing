@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/erranfenech/packages-testing/issues"
   },
+"publishConfig": {
+   "@erranfenech:registry": "https://npm.pkg.github.com"
+ }
   "homepage": "https://github.com/erranfenech/packages-testing#readme"
 }
