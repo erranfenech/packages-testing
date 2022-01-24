@@ -1,0 +1,19 @@
+{
+  "name": "@erranfenech/packages-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erranfenech/packages-testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erranfenech/packages-testing/issues"
+  },
+  "homepage": "https://github.com/erranfenech/packages-testing#readme"
+}
